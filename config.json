@@ -1,0 +1,9 @@
+{
+  "window_titles": ["崩坏：星穹铁道", "Honkai: Star Rail"],
+  "target": "完美投影仪",
+  "buys_per_visit": 1,
+  "gold_reserve": 0,
+  "max_refreshes": 300,
+  "stop_key": "f10",
+  "pause_key": "f11"
+}

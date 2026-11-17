@@ -1,0 +1,16 @@
+# 运行时生成
+__pycache__/
+*.py[cod]
+.pytest_cache/
+logs/
+debug/
+self-check.log
+
+# 实机截图左下角有 UID，不进仓库（识别测试缺截图时会自动跳过）
+shots/
+
+# Nuitka 打包产物
+build/
+*.build/
+*.dist/
+*.onefile-build/
